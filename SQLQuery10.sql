@@ -1,6 +1,8 @@
 ﻿
 --https://drive.google.com/drive/folders/1XU11tGtLkMOFlI-p6Ap-E_pEJ8O-0j41?usp=sharing
 
+--https://drive.google.com/drive/folders/1Ypk76w6nzRRieIO7ikTldgudNFeup2jc
+
 CREATE DATABASE QLBCC;
 GO
 Use QLBCC;
